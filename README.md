@@ -9,7 +9,7 @@
 ***
 
 <div align="center">
-<img width="1211"src="https://github.com/MaiaraSanto/Joguinho-do-Canvas/blob/main/Canvas.png">
+<img width="1212"src="https://github.com/MaiaraSanto/Joguinho-do-Canvas/blob/main/Canvas.png">
  </div>
  
  
