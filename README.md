@@ -5,10 +5,13 @@
 
 ***
 
+# [CLIQUE AQUI PARA ACESSAR](https://maiarasanto.github.io/Joguinho-do-Canvas/)
+***
+
 <div align="center">
 <img width="1211"src="https://github.com/MaiaraSanto/Joguinho-do-Canvas/blob/main/Canvas.png">
  </div>
  
- ***
+ 
 
-# [CLIQUE AQUI PARA ACESSAR](https://maiarasanto.github.io/Joguinho-do-Canvas/)
+
