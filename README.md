@@ -7,7 +7,7 @@
 
 # <div align="center">[CLIQUE AQUI PARA ACESSAR](https://maiarasanto.github.io/Joguinho-do-Canvas/)
 </div>
-***
+
 
 <div align="center">
 <img height="380em"width="80%"src="https://github.com/MaiaraSanto/Joguinho-do-Canvas/blob/main/Canvas.png">
