@@ -6,8 +6,9 @@
 ***
 
 <div align="center">
-<img width="1211" alt="Screen Shot 2022-07-21 at 22 39 08" src="https://github.com/MaiaraSanto/Joguinho-do-Canvas/blob/main/Canvas.png">
+<img width="1211"src="https://github.com/MaiaraSanto/Joguinho-do-Canvas/blob/main/Canvas.png">
  </div>
+ 
+ ***
 
-
-[CLIQUE AQUI PARA ACESSAR](https://maiarasanto.github.io/Joguinho-do-Canvas/)
+# [CLIQUE AQUI PARA ACESSAR](https://maiarasanto.github.io/Joguinho-do-Canvas/)
