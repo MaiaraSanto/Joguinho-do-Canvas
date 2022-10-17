@@ -5,7 +5,7 @@
 
 ***
 
-# <div align="center">[CLIQUE AQUI PARA ACESSAR](https://maiarasanto.github.io/Joguinho-do-Canvas/)
+# <div align="center">[Clique aqui para acessar](https://maiarasanto.github.io/Joguinho-do-Canvas/)
 </div>
 
 
